@@ -1,0 +1,14 @@
+#hello{
+    background-color: yellow;
+    width: 400px;
+    padding: 10px;
+    text-align: center;
+    font-size: 36px;
+    border: 2px solid;
+}
+
+#text{
+    width: 400px;
+    height: 100px;
+    border: 2px solid;
+}
